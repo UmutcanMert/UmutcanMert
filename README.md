@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umutcanmert&label=Profile%20views&color=0e75b6&style=flat" alt="umutcanmert" /> </p>
 
-- 🌱 I’m currently learning **I’m currently learning machine learning sql, javascript and .Net**
+- 🌱 I’m currently learning **I’m currently learning sql,machine learning, javascript and .Net**
 
 - 📝 I regularly write articles on [https://medium.com/@umutcanmert03](https://medium.com/@umutcanmert03)
 
-- 💬 Ask me about **C, C#, Java, HTML, JAVA, Python, Linux, Cyber Security**
+- 💬 Ask me about **C, C#, Java, HTML, Python, Linux, Cyber Security**
 
 - 📫 How to reach me **umutcanmert03@gmail.com**
 
