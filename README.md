@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -🌱 I’m currently learning  machine learning sql, javascript and .Net
 <br>
 -💬 Ask me about C, C#, Java, HTML, JAVA, Linux, Cyber Security
+<br>
 ![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
