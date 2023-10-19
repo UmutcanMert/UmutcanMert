@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning  machine learning sql, javascript and .Net
-💬 Ask me about C, C#, Java, HTML, JAVA, Linux, Cyber Security
+-🌱 I’m currently learning  machine learning sql, javascript and .Net
+<br>
+-💬 Ask me about C, C#, Java, HTML, JAVA, Linux, Cyber Security
