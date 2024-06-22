@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **C, C#, Java, HTML, Python, Linux, Cyber Security, Machine Learning**
 
-- 📫 How to reach me **umutcanmert03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
