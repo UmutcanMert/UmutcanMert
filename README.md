@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umutcanmert&label=Profile%20views&color=0e75b6&style=flat" alt="umutcanmert" /> </p>
 
 - 🌱 I’m interested in **artificial intelligence, machine learning, deep learning**
-- Also I am working on opengl, linux and drm IOCTLs currently.
+- Also I am working on opengl, linux.
 - 📝 I regularly write articles on [https://medium.com/@umutcanmert03](https://medium.com/@umutcanmert03)
 
 - 💬 Ask me about **C, C#, Java, Python, Linux, OpenGl, Machine Learning,Deep Learning**
